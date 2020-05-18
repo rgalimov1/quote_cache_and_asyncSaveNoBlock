@@ -1,0 +1,1 @@
+insert into ELVL (isin, elvl) values ( 'RU000A0JX0J7' , 0.); -- needed for some tests

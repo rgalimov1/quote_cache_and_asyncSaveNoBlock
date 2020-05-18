@@ -1,0 +1,15 @@
+com\luxoft\quote\dao\ElvlRepository$ElvlMapper.class
+com\luxoft\quote\domain\Elvl.class
+com\luxoft\quote\service\ElvlService.class
+com\luxoft\quote\businesslogic\Calculator.class
+com\luxoft\quote\web\controller\QuoteController.class
+com\luxoft\quote\web\validation\QuoteValidator.class
+com\luxoft\quote\service\QuoteService.class
+com\luxoft\quote\dao\DataSourceConfig.class
+com\luxoft\quote\QuoteApplication.class
+com\luxoft\quote\service\ElvlService$Item.class
+com\luxoft\quote\domain\Quote.class
+com\luxoft\quote\dao\QuoteRepository$QuoteMapper.class
+com\luxoft\quote\dao\QuoteRepository.class
+com\luxoft\quote\web\controller\ElvlController.class
+com\luxoft\quote\dao\ElvlRepository.class
